@@ -5,8 +5,6 @@
 
 Jogo de adivinhação criado usando a tríade do desenvolvimento web: HTML, CSS e Java Script.
 
-<p></p>
-
 <h2>Regras</h2>
 
 ★ Tente acertar o número misterioso!
@@ -19,13 +17,9 @@ Jogo de adivinhação criado usando a tríade do desenvolvimento web: HTML, CSS 
 
 ★ Caso insira algo diferente do proposto será apresentada uma mensagem de erro dinâmica.
 
-<p></p>
-
 Para ver o projeto funcionando online, [CLIQUE AQUI](https://cdpn.io/pen/debug/RwyWemm?authentication_hash=dGkXWNoojQYA).
 
 Faça o download do repositório, [CLIQUE AQUI](https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/archive/refs/heads/main.zip).
-
-<p></p>
 
 
 <h2>Prévia</h2>
