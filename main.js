@@ -30,10 +30,10 @@ function adivinhaNumero() {
   /* essa função é chamada na parte do código que verifica se o número está correto */
   function getResultado() {
     if (tentativas == 1) {
-      resultado.innerHTML = `Você é bom! De primeira! <strong style="color: red">Parabéns!</strong><br/>Mas... Será que não foi <strong style="color: rgb(250, 152, 29)">SORTE</strong>?<br/> Clique <a href="https://cdpn.io/pen/debug/RwyWemm?authentication_hash=yPMJjbOOOnBM>"><strong style="color: blue">AQUI</strong></a> para tentar novamente!`;
+      resultado.innerHTML = `Você é bom! De primeira! <strong style="color: red">Parabéns!</strong><br/>Mas... Será que não foi <strong style="color: rgb(250, 152, 29)">SORTE</strong>?<br/> Clique <a href="https://cdpn.io/pen/debug/RwyWemm?authentication_hash=dGkXWNoojQYA"><strong style="color: blue">AQUI</strong></a> para tentar novamente!`;
       console.log(chute);
     } else {
-      resultado.innerHTML = `Você acertou em ${tentativas} tentativas! <strong style="color: red">Parabéns!</strong><br/>Clique <a href="https://cdpn.io/pen/debug/RwyWemm?authentication_hash=yPMJjbOOOnBM>"><strong style="color: blue">AQUI</strong></a> para tentar novamente!`;
+      resultado.innerHTML = `Você acertou em ${tentativas} tentativas! <strong style="color: red">Parabéns!</strong><br/>Clique <a href="https://cdpn.io/pen/debug/RwyWemm?authentication_hash=dGkXWNoojQYA"><strong style="color: blue">AQUI</strong></a> para tentar novamente!`;
     }
   }
 
