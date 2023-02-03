@@ -24,7 +24,7 @@ Faça o download do repositório, [CLIQUE AQUI](https://github.com/leticiapalaro
 
 <h2>Prévia</h2>
 
-<img src="https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/blob/main/imagens/pr%C3%A9via.png?raw=true">
+[<img src="https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/blob/main/imagens/pr%C3%A9via.png?raw=true">](https://leticiapalaro.github.io/-_html-css-javascript_-jogo-de-adivinhacao/)
 
  <br><br><br><img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br><a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
   <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
