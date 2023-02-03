@@ -1,5 +1,7 @@
 <div align="center">
-[<img height="300vh" src="https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/blob/main/imagens/van-mist%C3%A9rios.png?raw=true">](https://leticiapalaro.github.io/-_html-css-javascript_-jogo-de-adivinhacao/)
+
+[<img src="https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/blob/main/imagens/van-mistérios.png?raw=true">](https://leticiapalaro.github.io/-_html-css-javascript_-jogo-de-adivinhacao/)
+
 <h1>Projeto: Jogo de Adivinhação.</h1>
 
 Jogo de adivinhação criado usando a tríade do desenvolvimento web: HTML, CSS e Java Script.
