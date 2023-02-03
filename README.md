@@ -3,8 +3,9 @@
 <img height="300vh" src="https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/blob/main/imagens/van-mist%C3%A9rios.png?raw=true">
 <br>Projeto: Jogo de Adivinhação.</h1>
 
-
 Jogo de adivinhação criado usando a tríade do desenvolvimento web: HTML, CSS e Java Script.
+
+
 
 <h2>Regras</h2>
 
@@ -18,9 +19,14 @@ Jogo de adivinhação criado usando a tríade do desenvolvimento web: HTML, CSS 
 
 ★ Caso insira algo diferente do proposto será apresentada uma mensagem de erro dinâmica.
 
+
+
 Para ver o projeto funcionando online, [CLIQUE AQUI](https://cdpn.io/pen/debug/RwyWemm?authentication_hash=dGkXWNoojQYA).
 
 Faça o download do repositório, [CLIQUE AQUI](https://github.com/leticiapalaro/-_html-css-javascript_-jogo-de-adivinhacao/archive/refs/heads/main.zip).
+
+
+
 
 <h2>Prévia</h2>
 
