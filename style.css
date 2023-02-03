@@ -1,0 +1,63 @@
+* {
+    font-family: "Fredoka One", cursive;
+    text-align: center;
+  }
+  
+  body {
+    background: url("https://gitlab.com/leticiapalaro/imersao-dev_5-alura/-/raw/main/Imagens/papel_de_parede.jpg");
+    background-size: 111%;
+  }
+  
+  #logo-projeto {
+    width: 100%;
+  }
+  
+  .container {
+    margin: auto;
+    width: 60%;
+  }
+  
+  h2,
+  #label-numero-chute,
+  #numero-chute,
+  #chute-button,
+  #area-resultado {
+    font-size: 1.5em;
+    /*text-transform: uppercase;*/
+  }
+  
+  #area-resultado {
+    border: 2px solid white;
+    background: white;
+    border-radius: 100px;
+    margin-top: 1em;
+    line-height: 1.5em;
+  }
+  
+  #acertou {
+    border-radius: 100px;
+    width: 50%;
+    border: 5px solid rgb(219, 227, 56);
+    padding: 5px;
+  }
+  
+  input {
+    width: 10%;
+  }
+  
+  /* celular */
+  @media screen and (max-width: 500px) {
+    .container {
+      width: 90%;
+    }
+  
+    h2,
+    #label-numero-chute,
+    #numero-chute,
+    #chute-button,
+    #area-resultado {
+      font-size: 1em;
+      /*text-transform: uppercase;*/
+    }
+  }
+  

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Dados do Projeto -->
+    <meta name="Project" content="Imersão Dev_ Alura">
+    <meta name="Lesson" content="Aula 03: Mentalista">
+    <meta name="Author" content="Letícia Palaro">
+
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+    <title>Revele o Mistério</title>
+</head>
+
+<body>
+  <main>
+    <div class="container">
+      <h1><img src="https://gitlab.com/leticiapalaro/imersao-dev_5-alura/-/raw/main/Imagens/header.png" id="logo-projeto"></h1>
+      <div class="substituir">
+        <h2>Descubra o número secreto!</h2>
+        <label for="numero-chute" id="label-numero-chute">Escolha um número entre 0 e 10: </label>
+        <input type="number" id="numero-chute"> <!-- não será utilizado min, max ou required intencionalmente -->
+        <button type="submit" id="chute-button">Chutar</button>
+      </div>
+      <div id="area-resultado">Esperando você tentar...</div>
+    </div>
+  </main>
+</body>
+</html>
